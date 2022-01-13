@@ -1,1 +1,1 @@
-A genetic algorithm written in Rust that finds a string.# genetic-algorithm-in-rust
+A genetic algorithm written in Rust that finds a given string
